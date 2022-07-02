@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "1799244fd77b7dbd081fd7fd79a4e54275fdeb011d558f1793a932648ac9740f"
+
+[[files]]
+file = "modlist.js"
+hash = "edad8ad4b035044aab7165e0ea0fd4fab3b6c9ca2080ea6092b420fc3fd69cb8"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "e59138ddd4931750b1e9c0eebc707eeb4ed08d8e2e7edefdc6cc0046505b9e5e"
 metafile = true
@@ -107,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "3476857955abc3053155ef32f1479594d3a7b61e522d570d66f1d0d327b4ecf8"
+hash = "e2768d23161411dcddebe4bcfa7f154632706b57f685c34bcf65e22543ec0b46"
 metafile = true
 
 [[files]]
@@ -127,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "ba99850c71a06482ef88cc18d8273c511e523c20fc96b1ce8cefd9adc98705fd"
+hash = "c680c3a89fc6f371f634666ef911dcbb5103589b308db730ad2e2a0de23a06d6"
 metafile = true
 
 [[files]]
@@ -167,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
+hash = "65370d3a87c7eadaa75ebf3c00cbff34cf206f88fa54c0d13da1225d7c4bf862"
 metafile = true
 
 [[files]]
@@ -196,8 +204,8 @@ hash = "31b8ee3e8f34273e2989381dde65b8b13e128b6fed0c244f46af62bb47ac354f"
 metafile = true
 
 [[files]]
-file = "mods/fallingtree.pw.toml"
-hash = "f4e2a688b20447f37e6cfca27bbf764f3448021a7c93fd54e33fb151bc6fb0db"
+file = "mods/falling-tree.pw.toml"
+hash = "8a1494c34fa08040ce928c6e961baa0ba4dc1d43921cb55a25753e89d21046e7"
 metafile = true
 
 [[files]]
@@ -206,8 +214,8 @@ hash = "e5178589c0713952a8ab6559583103ac6c8aae1bf19cccf3f0fdbc3058089347"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "0eccead743b7a2a4fdd6ba5c58fc109b4a08f360b0d7f66df135501728ae102e"
 metafile = true
 
 [[files]]
@@ -232,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "b8e50e473a9a5f9d41dba92a20e6af19156a23d3f70cc87c4fe164ea83e0e238"
+hash = "8144bc5631457a762074a032a196e7cf5b40607f705923ee3305c9d20aed61cf"
 metafile = true
 
 [[files]]
@@ -241,8 +249,8 @@ hash = "c50358512e78ebb7e436dbeab5e64b793bd9b70ae2a040081645d26a9b7545a8"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "955af3c751bf51e8a5ae1f396a48da1fa3a85be5698714599c05a8c5007de8de"
+file = "mods/irisshaders.pw.toml"
+hash = "2370e2654b50288f953f337b98527cbf2dfaf9f3f797115969e11f62db62216c"
 metafile = true
 
 [[files]]
@@ -262,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/lazydfu.pw.toml"
-hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+hash = "b59cda50b7fa539aa9783bb8d87b55ca4e05d0269c9f2e2df69fa2134d0e644f"
 metafile = true
 
 [[files]]
@@ -272,12 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
-metafile = true
-
-[[files]]
-file = "mods/mavm.pw.toml"
-hash = "e5e9697602c898198e19b6066305491623972d3c93855d5c0b56551a2c40039b"
+hash = "c5fef2f9b5aec665ad9c09712c0c9d88157ba2cf48ac19fd0eef30b00c97dd5b"
 metafile = true
 
 [[files]]
@@ -297,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "7b698467c51828a5eb22da876bfdae2d9d1981ed2618555875632166fc0e1310"
+hash = "06af9a1b6e6cde17788bd4f2a3dca136b1ac27727af40613646d7194f23980fb"
 metafile = true
 
 [[files]]
@@ -307,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "d240a40073a8ae5c5f56b4c3cde5d78951ca71dc5b8279f0405f346a537659b7"
+hash = "775d0aa361918abe18e33dbdd00c442377cb7274bb6a1f94a55f414201bbff6b"
 metafile = true
 
 [[files]]
@@ -337,8 +340,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "c704ab1b78607e345633f54f6f0d3a4ffa9fdb37600c87a794bd67fab3ec9b54"
+hash = "d599151432acf03cf8dfb26c80321ab1b0f0adf070b75c5963155ad80d782d51"
 metafile = true
+
+[[files]]
+file = "mods/refinedstorage2-platform-fabric-2.0.0-milestone.1.4.jar"
+hash = "0b0ad371ef74fb2e3fa1e7f1949a14d9aa83ecae930a495be2f4470343b358ef"
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
@@ -362,17 +369,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "696826932a2a382de68f7c843847b6c8c8d5319c022503681494e3cff03e18ff"
+hash = "6877ef3ff4b75e42cebc9999d46cde7c9c41bea181b408ad6a5647e032653e0f"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
 metafile = true
 
 [[files]]
