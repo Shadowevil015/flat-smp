@@ -69,7 +69,6 @@
 - Plasmo Voice (<https://modrinth.com/mod/1bZhdhsH>)
 - Pleasant Pigeons (<https://minecraft.curseforge.com/projects/580843>)
 - Polymorph (Fabric) (<https://minecraft.curseforge.com/projects/397434>)
-- Powah! (Rearchitected) (<https://minecraft.curseforge.com/projects/633483>)
 - Reese's Sodium Options (<https://minecraft.curseforge.com/projects/511319>)
 - refinedstorage2-platform-fabric-2.0.0-milestone.1.4.jar
 - Roughly Enough Items Fabric/Forge (REI) (<https://minecraft.curseforge.com/projects/310111>)
