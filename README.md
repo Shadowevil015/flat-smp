@@ -18,7 +18,7 @@
 - cAn i MiNe thIS bLOCk? (<https://minecraft.curseforge.com/projects/400929>)
 - Capybara [Fabric] (<https://minecraft.curseforge.com/projects/549031>)
 - Cloth Config API (UNUSED) (<https://minecraft.curseforge.com/projects/319057>)
-- Cloth Config API (Fabric/Forge) (<https://minecraft.curseforge.com/projects/348521>)
+- Cloth Config API (<https://modrinth.com/mod/9s6osm5g>)
 - Continuity (<https://minecraft.curseforge.com/projects/531351>)
 - Create Fabric (<https://modrinth.com/mod/Xbc0uyRg>)
 - Croptopia (<https://minecraft.curseforge.com/projects/415438>)
