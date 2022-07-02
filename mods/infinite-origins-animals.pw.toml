@@ -1,0 +1,13 @@
+name = "Animal Origins - Infinite Origins"
+filename = "Animal_origins_v1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9585c1f745ab50b632a4f6b2df95fc160aa05e71"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3830259
+project-id = 597112

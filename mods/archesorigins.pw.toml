@@ -1,0 +1,13 @@
+name = "ArchesOrigins"
+filename = "ACOrigins-1.18-0.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1287ba1f12d612c83e584b994c5f09d30ae0949a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3760460
+project-id = 487604
