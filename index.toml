@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "1799244fd77b7dbd081fd7fd79a4e54275fdeb011d558f1793a932648ac9740f"
+hash = "37044473e2706a790b5cdbbd8d9f0b9025d09689d80a23bdbc630e6c82bc8339"
 
 [[files]]
 file = "modlist.js"
