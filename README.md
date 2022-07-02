@@ -58,7 +58,6 @@
 - Mod Menu (<https://minecraft.curseforge.com/projects/308702>)
 - More Culling (<https://modrinth.com/mod/51shyZVL>)
 - Mouse Wheelie (Fabric) (<https://minecraft.curseforge.com/projects/317514>)
-- Naturalist (<https://minecraft.curseforge.com/projects/627986>)
 - Oh The Biomes You'll Go Refabricated (<https://minecraft.curseforge.com/projects/391378>)
 - Ok Zoomer (<https://minecraft.curseforge.com/projects/354047>)
 - Origins Extra Keybinds (<https://minecraft.curseforge.com/projects/474612>)
@@ -67,7 +66,6 @@
 - Pehkui (<https://minecraft.curseforge.com/projects/319596>)
 - Plant In A Jar (<https://minecraft.curseforge.com/projects/397183>)
 - Plasmo Voice (<https://modrinth.com/mod/1bZhdhsH>)
-- Pleasant Pigeons (<https://minecraft.curseforge.com/projects/580843>)
 - Polymorph (Fabric) (<https://minecraft.curseforge.com/projects/397434>)
 - Reese's Sodium Options (<https://minecraft.curseforge.com/projects/511319>)
 - refinedstorage2-platform-fabric-2.0.0-milestone.1.4.jar

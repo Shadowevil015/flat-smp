@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "69357b30a122a99c7581fb4ec457d789c89a00681cdfdb728001c5b122d2c35e"
+hash = "ee81cbe0c62f80d8e7911ce7db45a7bcf5931cbddbeadcf00dedb11a500a7260"
 
 [[files]]
 file = "config/Adorn.json5"
@@ -889,11 +889,6 @@ metafile = true
 [[files]]
 file = "mods/polymorph-fabric.pw.toml"
 hash = "8af8ebe6e89a19e72901dac8581a87b251e19faba856459379456306bfb12267"
-metafile = true
-
-[[files]]
-file = "mods/powah-rearchitected.pw.toml"
-hash = "2c87d0f6e633018b3836e33b2b096a1f1efc08e35824fb920c90dc101dbbb0a3"
 metafile = true
 
 [[files]]
