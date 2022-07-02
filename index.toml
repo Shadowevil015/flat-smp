@@ -707,6 +707,11 @@ hash = "31dcae9dfddb9d73f7356a9c074cd77f1e416dd3b2b30c5007c2594206e47b48"
 metafile = true
 
 [[files]]
+file = "mods/extra-origins.pw.toml"
+hash = "23f3624b07b9ddd076b59cb4353843164e16b8936b84f6f49a14eab1e010d85d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "42e2da7f33977bfa2bb411e1443723a857276cc460717573ef9f8f861076ad64"
 metafile = true
@@ -754,6 +759,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "8144bc5631457a762074a032a196e7cf5b40607f705923ee3305c9d20aed61cf"
+metafile = true
+
+[[files]]
+file = "mods/industrial-revolution.pw.toml"
+hash = "2a746b1f98332f3ff0e4c5e337d20a33c9eacb82ab4e62b24174a816ded2e24b"
 metafile = true
 
 [[files]]
@@ -852,6 +862,16 @@ hash = "f036e8eadae24dcb610a3440182aebc4e0420aece74b6959c2fa658d771450fd"
 metafile = true
 
 [[files]]
+file = "mods/polymorph-fabric.pw.toml"
+hash = "8af8ebe6e89a19e72901dac8581a87b251e19faba856459379456306bfb12267"
+metafile = true
+
+[[files]]
+file = "mods/powah-rearchitected.pw.toml"
+hash = "2c87d0f6e633018b3836e33b2b096a1f1efc08e35824fb920c90dc101dbbb0a3"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "d599151432acf03cf8dfb26c80321ab1b0f0adf070b75c5963155ad80d782d51"
 metafile = true
@@ -913,6 +933,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "1e2eb57cc344d6e87b2f46d6d6e0e7c77541e83f78a51313523f337acc700e50"
+metafile = true
+
+[[files]]
+file = "mods/wireless-networks.pw.toml"
+hash = "e8723fb6d3ed1e7d7a10f53ad1b30dd19a1aaa53dde6f15d4c0ea249a5ee50c2"
 metafile = true
 
 [[files]]
