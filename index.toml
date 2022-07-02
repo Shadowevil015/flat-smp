@@ -607,6 +607,11 @@ hash = "be2eb8aaf41cc18a31ccd3401c07547f189ce72ce6a30484b6ac16142c7b3653"
 metafile = true
 
 [[files]]
+file = "mods/betteranimalsplus.pw.toml"
+hash = "894c967c5a1f5d35a1ff7eb32f506fc1cddc31e27762692eafff42d6259d6885"
+metafile = true
+
+[[files]]
 file = "mods/bewitchment.pw.toml"
 hash = "f173d12e4bec1e529d375e5a9e3aeb6e2eb11ef5e15c4be3645f5b541f2b7153"
 metafile = true
@@ -629,6 +634,11 @@ metafile = true
 [[files]]
 file = "mods/capybara-fabric.pw.toml"
 hash = "72c74592520c29260acfd72bbc99f6e2016b62fd6645c6684a6223a5a169a5e3"
+metafile = true
+
+[[files]]
+file = "mods/caracal-mod.pw.toml"
+hash = "89b8f121d7adb2f5a9721fac25fd183a293a2fbfc69953cb375f8db350488ae4"
 metafile = true
 
 [[files]]
@@ -827,6 +837,11 @@ hash = "06af9a1b6e6cde17788bd4f2a3dca136b1ac27727af40613646d7194f23980fb"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "1ee6fb30ec330b959f8a8034577b0880cd9cf53cd8af988d4233cb69d68e892d"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "057de9b6acc68c428738a8f7a3fea84590f3c2f2ba14024e2034f493075b02e8"
 metafile = true
@@ -857,8 +872,18 @@ hash = "973bd6c595505db1555232699ee8a2a1498117eca8ab5613b1f519497057e080"
 metafile = true
 
 [[files]]
+file = "mods/plant-in-a-jar.pw.toml"
+hash = "0cc3c9b9279948e969bf1f6a1dc0a8083632b652424523376e9a96556db94d0a"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "f036e8eadae24dcb610a3440182aebc4e0420aece74b6959c2fa658d771450fd"
+metafile = true
+
+[[files]]
+file = "mods/pleasant-pigeons.pw.toml"
+hash = "ff7978c2a71457db226ee211a221baec54535fb268e5cf658ff13ad63aa61b9f"
 metafile = true
 
 [[files]]
@@ -936,6 +961,11 @@ hash = "1e2eb57cc344d6e87b2f46d6d6e0e7c77541e83f78a51313523f337acc700e50"
 metafile = true
 
 [[files]]
+file = "mods/whisperwoods.pw.toml"
+hash = "67d8a8c0a83e26de7fb21d5eecace88b9820360b0ede26491da8c9257cdbcbb1"
+metafile = true
+
+[[files]]
 file = "mods/wireless-networks.pw.toml"
 hash = "e8723fb6d3ed1e7d7a10f53ad1b30dd19a1aaa53dde6f15d4c0ea249a5ee50c2"
 metafile = true
@@ -948,6 +978,11 @@ metafile = true
 [[files]]
 file = "mods/xl-packets-fabric.pw.toml"
 hash = "010437f1fe7ae2ea2690354120886f04a6c69f05c99861d3479e43bbbeed1cde"
+metafile = true
+
+[[files]]
+file = "mods/ydms-red-panda.pw.toml"
+hash = "6b5c47868790abf4675ff20032305342a48cd284f35e89d915f4f22a170a31e2"
 metafile = true
 
 [[files]]
