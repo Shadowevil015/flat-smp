@@ -39,7 +39,6 @@
 - FastChest (<https://minecraft.curseforge.com/projects/436038>)
 - FerriteCore (Fabric) (<https://minecraft.curseforge.com/projects/459857>)
 - 🌷Floral Flair🌷 (<https://minecraft.curseforge.com/projects/549363>)
-- ForgetMeChunk (<https://modrinth.com/mod/vRXn3MrA>)
 - GeckoLib (<https://minecraft.curseforge.com/projects/388172>)
 - Haema (<https://minecraft.curseforge.com/projects/391257>)
 - Indium (<https://minecraft.curseforge.com/projects/459496>)

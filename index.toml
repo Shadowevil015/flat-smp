@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "5e874d4962c7a390b8695befe58c1dfb2fb21041bb2886147373b71b33a2977d"
+hash = "f2bce544ccd4f0bfb3336fd0ffbdea47e609e13b0e78d0f3d607f00da7f6dca1"
 
 [[files]]
 file = "config/Adorn.json5"
@@ -739,11 +739,6 @@ metafile = true
 [[files]]
 file = "mods/floral-flair-fabric.pw.toml"
 hash = "bf801669f8c216d109549b5d5c594e66cd9916d0a57fbf0786d1c38a1db3525a"
-metafile = true
-
-[[files]]
-file = "mods/forgetmechunk.pw.toml"
-hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
 metafile = true
 
 [[files]]
