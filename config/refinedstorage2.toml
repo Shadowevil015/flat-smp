@@ -1,0 +1,32 @@
+[grid]
+largeFont = false
+energyUsage = 10
+maxRowsStretch = 256
+preventSortingWhileShiftIsDown = true
+detailedTooltip = true
+rememberSearchQuery = false
+smoothScrolling = true
+autoSelected = false
+synchronizationType = "OFF"
+sortingDirection = "ASCENDING"
+sortingType = "QUANTITY"
+size = "STRETCH"
+[controller]
+energyCapacity = 1000
+[diskDrive]
+energyUsage = 10
+energyUsagePerDisk = 5
+[cable]
+energyUsage = 0
+[storageBlock]
+oneKEnergyUsage = 2
+fourKEnergyUsage = 4
+sixteenKEnergyUsage = 6
+sixtyFourKEnergyUsage = 8
+creativeEnergyUsage = 16
+[fluidStorageBlock]
+sixtyFourBEnergyUsage = 2
+twoHundredFiftySixBEnergyUsage = 4
+thousandTwentyFourBEnergyUsage = 6
+fourThousandNinetySixBEnergyUsage = 8
+creativeEnergyUsage = 16

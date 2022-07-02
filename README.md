@@ -25,7 +25,6 @@
 - DashLoader (<https://minecraft.curseforge.com/projects/472772>)
 - Debugify (<https://modrinth.com/mod/QwxR6Gcd>)
 - Deep Mob Learning: Refabricated (<https://minecraft.curseforge.com/projects/398614>)
-- Duckling (<https://minecraft.curseforge.com/projects/597248>)
 - 'Dustrial Decor [Fabric] (<https://minecraft.curseforge.com/projects/592067>)
 - Ecologics (<https://minecraft.curseforge.com/projects/570463>)
 - Ellemes' Container Library (<https://minecraft.curseforge.com/projects/530668>)
