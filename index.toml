@@ -552,6 +552,16 @@ hash = "6cb4f1c26fd603db739f5e1a888b5e941f1ca65590661660aa05c88b461fcce0"
 metafile = true
 
 [[files]]
+file = "mods/amethyst-imbuement.pw.toml"
+hash = "ef825e334f6368c950a5a6b470725b4019fc61648b001678de0238599b06dc2d"
+metafile = true
+
+[[files]]
+file = "mods/among-us-plushies.pw.toml"
+hash = "e2d20c01677805550936c610a6826b256c728ff23e9f24ab8cddf193e95bca22"
+metafile = true
+
+[[files]]
 file = "mods/apocalypse-origins.pw.toml"
 hash = "1d2f3828cfaee80f6d300952c16f89e2bb0728dec78911d862ecf8caa10734f9"
 metafile = true
@@ -922,6 +932,11 @@ hash = "c5fef2f9b5aec665ad9c09712c0c9d88157ba2cf48ac19fd0eef30b00c97dd5b"
 metafile = true
 
 [[files]]
+file = "mods/mcdiscordchat.pw.toml"
+hash = "bd31d80434c5d97cb8c2f758f7b58f1d81f1f2309f6cc628d06e93a53ee52796"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "5977b263e2694941ddc2e5279259089215fb72ea53ca1491a0e101c97896311a"
 metafile = true
@@ -994,6 +1009,11 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "f036e8eadae24dcb610a3440182aebc4e0420aece74b6959c2fa658d771450fd"
+metafile = true
+
+[[files]]
+file = "mods/pleasant-pigeons.pw.toml"
+hash = "ff7978c2a71457db226ee211a221baec54535fb268e5cf658ff13ad63aa61b9f"
 metafile = true
 
 [[files]]
