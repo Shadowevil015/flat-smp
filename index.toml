@@ -917,6 +917,11 @@ hash = "c5fef2f9b5aec665ad9c09712c0c9d88157ba2cf48ac19fd0eef30b00c97dd5b"
 metafile = true
 
 [[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "b8ac8ef13235f9728b85eddb5c2739ad28689a7cb1d4d308b17deb6d63bba9ca"
+metafile = true
+
+[[files]]
 file = "mods/mcdiscordchat.pw.toml"
 hash = "bd31d80434c5d97cb8c2f758f7b58f1d81f1f2309f6cc628d06e93a53ee52796"
 metafile = true

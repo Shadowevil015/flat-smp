@@ -74,6 +74,7 @@
 - Lib Block Attributes (<https://minecraft.curseforge.com/projects/317995>)
 - Lifts (<https://minecraft.curseforge.com/projects/451554>)
 - Lithium (Fabric) (<https://minecraft.curseforge.com/projects/360438>)
+- Logical Zoom (<https://minecraft.curseforge.com/projects/356461>)
 - MCDiscordChat (<https://minecraft.curseforge.com/projects/548539>)
 - Memory Leak Fix (<https://modrinth.com/mod/NRjRiSSD>)
 - Mod Menu (<https://minecraft.curseforge.com/projects/308702>)
