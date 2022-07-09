@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "befbf07fce6b3811ad7cb191fc5d076ded117c8406ccc5ca31bebb1fb3300d2d"
+hash = "2e2e54ee04493089e0b945dde460149473ede218aa090267cd36a74a3a879c8b"
 metafile = true
 
 [[files]]
@@ -633,6 +633,11 @@ hash = "85d6e453a9bb4076a0baad9a9d91797b1359b762a61a00c73bbf8ee2b8f14808"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "d0d66f65922d4d0b4421c3edeea3bb352a3d567458c0c5ff293e2fbcd588e0e5"
 metafile = true
@@ -660,6 +665,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "fd98380e1ae454f58b981a3cb916d56ed57434828adfe00926cdabdb37bd2e84"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "880d63ceab82d4f5167fcb38796a1d767efa4bd749b4caa70b8ad33f6d80fe6b"
 metafile = true
 
 [[files]]
@@ -723,6 +733,11 @@ hash = "c680c3a89fc6f371f634666ef911dcbb5103589b308db730ad2e2a0de23a06d6"
 metafile = true
 
 [[files]]
+file = "mods/dawn.pw.toml"
+hash = "341886dcf5776acf3b8c02724a1a4cb74694292dbeab983724f6b4e271893c91"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
 metafile = true
@@ -745,6 +760,11 @@ metafile = true
 [[files]]
 file = "mods/ecologics.pw.toml"
 hash = "d114b9fa652f44e2dcaab0d8ff63faaf718b341816878a64d27cc7cdf21dc7db"
+metafile = true
+
+[[files]]
+file = "mods/eden-ring.pw.toml"
+hash = "a67a8cbb69525c4b5771ca749290188e59db1b0211bfa6be10d2f8145a4e6a3d"
 metafile = true
 
 [[files]]
@@ -863,6 +883,11 @@ hash = "c50358512e78ebb7e436dbeab5e64b793bd9b70ae2a040081645d26a9b7545a8"
 metafile = true
 
 [[files]]
+file = "mods/infusion-table.pw.toml"
+hash = "1092142a9aa7e20658c9af85d25fc3b319e4a5b8d950bf948d4079428ee9ba0b"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "2370e2654b50288f953f337b98527cbf2dfaf9f3f797115969e11f62db62216c"
 metafile = true
@@ -920,6 +945,11 @@ metafile = true
 [[files]]
 file = "mods/mcdiscordchat.pw.toml"
 hash = "bd31d80434c5d97cb8c2f758f7b58f1d81f1f2309f6cc628d06e93a53ee52796"
+metafile = true
+
+[[files]]
+file = "mods/megaparrot.pw.toml"
+hash = "0225fb94694fdbdb08ffb9917483074380ffb50ddce7afa19ac20be646f221f5"
 metafile = true
 
 [[files]]
@@ -990,6 +1020,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph-fabric.pw.toml"
 hash = "8af8ebe6e89a19e72901dac8581a87b251e19faba856459379456306bfb12267"
+metafile = true
+
+[[files]]
+file = "mods/promenade.pw.toml"
+hash = "19043dd6917c0858a8d1ac0ae88afeb85c61b94906921baab215fe94c1a5408c"
 metafile = true
 
 [[files]]
@@ -1078,6 +1113,11 @@ hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
 metafile = true
 
 [[files]]
+file = "mods/universal-ores-fabric.pw.toml"
+hash = "dfc9d3cf4b1684efc3de576ab851f9e1cdf1ef0ac52bdc02b0c836961f3ebcf6"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-hammers.pw.toml"
 hash = "a2a39fe993ad407531c4d5458bd6e739053f97ec4b57e8dece5452ee35798a56"
 metafile = true
@@ -1160,3 +1200,8 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "adc4d1d1efc6086751e323c30d5ad061f38ae3e280f071d030d9e89ba255f102"
+
+[[files]]
+file = "resourcepacks/xaeros-minimap-modded-support.pw.toml"
+hash = "c3388757d17a46b2dd8923510559fd7d2b64324fd412fb3bceb6d38e89603ffa"
+metafile = true
