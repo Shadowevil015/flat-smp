@@ -727,6 +727,11 @@ hash = "ea848617ba6f658e61983a3ce410269a1a2ff6b7f29253a807bcdace861d0025"
 metafile = true
 
 [[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "15b2ef7719630be3af98316243f03b33529ce65caeb614bc11cb1e0b58763e0e"
+metafile = true
+
+[[files]]
 file = "mods/dustrial-decor-fabric.pw.toml"
 hash = "3531d487a8c774e3336ade0fedf753827c3cb67967e0dfda8f6fad6bed714949"
 metafile = true
@@ -909,6 +914,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "86c821389c1ecfcf2b83975287bf3a549b00b096989324bcc15fe8a0cb06e80e"
+metafile = true
+
+[[files]]
+file = "mods/moon-and-space-dimensions-fabric.pw.toml"
+hash = "e054c2574b17da77170e8202bb25e2ac12d8cce95b6315219f385baedf9825f1"
 metafile = true
 
 [[files]]
