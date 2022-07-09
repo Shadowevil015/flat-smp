@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "e79ad668757abc19eef8532f8c517b16e0249773e172eb3287bcc55433d46dbf"
+hash = "8cbec9c3afeb97c47e493813af389588ab9a915433213edccc1e9e0f4b908e43"
 
 [[files]]
 file = "config/Adorn.json5"
