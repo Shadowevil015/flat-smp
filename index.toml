@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "6c5c605e5011a8f358da4e5f130bb15c2d56f59bf3306b6c0d05ec1028931900"
+hash = "e79ad668757abc19eef8532f8c517b16e0249773e172eb3287bcc55433d46dbf"
 
 [[files]]
 file = "config/Adorn.json5"
@@ -667,11 +667,6 @@ hash = "6bab8553f066278705d6fac0e4e9887e729d0d69fb71e8080e2046c53e2f3443"
 metafile = true
 
 [[files]]
-file = "mods/can-i-mine-this-block.pw.toml"
-hash = "24893bede5593f7a1ea42d37adb379883075945949b1d219cfcbe03f91cb5aae"
-metafile = true
-
-[[files]]
 file = "mods/capybara-fabric.pw.toml"
 hash = "72c74592520c29260acfd72bbc99f6e2016b62fd6645c6684a6223a5a169a5e3"
 metafile = true
@@ -714,11 +709,6 @@ metafile = true
 [[files]]
 file = "mods/createplus.pw.toml"
 hash = "8a4802536ab925162bb3e343137d56d0958453f559a38515ff686f49446e81db"
-metafile = true
-
-[[files]]
-file = "mods/croptopia.pw.toml"
-hash = "8f3bd670eadd9b510ced2311c7da0b2444c25f1e9b0ece1fcb1421f4073c1dbf"
 metafile = true
 
 [[files]]
@@ -829,11 +819,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "80bfb2aa2ef862c92581a130e47f95f6dc6ae29f8b02b5423d7147752cf2b00c"
-metafile = true
-
-[[files]]
-file = "mods/fastchest.pw.toml"
-hash = "e5178589c0713952a8ab6559583103ac6c8aae1bf19cccf3f0fdbc3058089347"
 metafile = true
 
 [[files]]
@@ -977,11 +962,6 @@ hash = "057de9b6acc68c428738a8f7a3fea84590f3c2f2ba14024e2034f493075b02e8"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.pw.toml"
-hash = "775d0aa361918abe18e33dbdd00c442377cb7274bb6a1f94a55f414201bbff6b"
-metafile = true
-
-[[files]]
 file = "mods/origins-extra-keybinds.pw.toml"
 hash = "598e04d4d1297fb9c341980ad1a3fa51cf4077a5d7d1170d37f7441be4be4b91"
 metafile = true
@@ -1007,23 +987,8 @@ hash = "0cc3c9b9279948e969bf1f6a1dc0a8083632b652424523376e9a96556db94d0a"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "f036e8eadae24dcb610a3440182aebc4e0420aece74b6959c2fa658d771450fd"
-metafile = true
-
-[[files]]
-file = "mods/pleasant-pigeons.pw.toml"
-hash = "ff7978c2a71457db226ee211a221baec54535fb268e5cf658ff13ad63aa61b9f"
-metafile = true
-
-[[files]]
 file = "mods/polymorph-fabric.pw.toml"
 hash = "8af8ebe6e89a19e72901dac8581a87b251e19faba856459379456306bfb12267"
-metafile = true
-
-[[files]]
-file = "mods/rats-mischief.pw.toml"
-hash = "7c0573457dffe5098e127f76dfe92d4374de821c0bddbb47d958ba81ee114f96"
 metafile = true
 
 [[files]]
@@ -1035,10 +1000,6 @@ metafile = true
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "d599151432acf03cf8dfb26c80321ab1b0f0adf070b75c5963155ad80d782d51"
 metafile = true
-
-[[files]]
-file = "mods/refinedstorage2-platform-fabric-2.0.0-milestone.1.4.jar"
-hash = "0b0ad371ef74fb2e3fa1e7f1949a14d9aa83ecae930a495be2f4470343b358ef"
 
 [[files]]
 file = "mods/replanter.pw.toml"
@@ -1121,18 +1082,8 @@ hash = "1e2eb57cc344d6e87b2f46d6d6e0e7c77541e83f78a51313523f337acc700e50"
 metafile = true
 
 [[files]]
-file = "mods/whisperwoods.pw.toml"
-hash = "67d8a8c0a83e26de7fb21d5eecace88b9820360b0ede26491da8c9257cdbcbb1"
-metafile = true
-
-[[files]]
 file = "mods/wireless-networks.pw.toml"
 hash = "e8723fb6d3ed1e7d7a10f53ad1b30dd19a1aaa53dde6f15d4c0ea249a5ee50c2"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "6f6f9795b9317427dce5d7d4970ed71307b0141b8490cdcef1b19a4c8c100c66"
 metafile = true
 
 [[files]]
