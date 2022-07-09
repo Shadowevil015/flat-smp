@@ -747,6 +747,11 @@ hash = "7ec588c4d9ee3d775d9a8c3efc4bf38bb48ec97043653d13be24d1df5e9d72bb"
 metafile = true
 
 [[files]]
+file = "mods/enhancedquarries.pw.toml"
+hash = "ad45d6a1455d73ae4d996a5bf08dfbfd5363f22af83afbc03b55dc81a1e1e2c9"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "65370d3a87c7eadaa75ebf3c00cbff34cf206f88fa54c0d13da1225d7c4bf862"
 metafile = true
@@ -882,6 +887,11 @@ hash = "b59cda50b7fa539aa9783bb8d87b55ca4e05d0269c9f2e2df69fa2134d0e644f"
 metafile = true
 
 [[files]]
+file = "mods/libblockattributes.pw.toml"
+hash = "6ca534fc017471413ac14ed9d56323e388b2d7f3979f9b466fa5d9bc00cafb69"
+metafile = true
+
+[[files]]
 file = "mods/lifts.pw.toml"
 hash = "acd8c6e3d1d7a673e1c7aca672c9aa3d75831150178d6feeb8065d4e1df7327c"
 metafile = true
@@ -969,6 +979,11 @@ metafile = true
 [[files]]
 file = "mods/rats-mischief.pw.toml"
 hash = "7c0573457dffe5098e127f76dfe92d4374de821c0bddbb47d958ba81ee114f96"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.pw.toml"
+hash = "f0715bc089d1779fda4585603916eeda828d8c0a6f4bdbf88150ac27a0dd26ee"
 metafile = true
 
 [[files]]
