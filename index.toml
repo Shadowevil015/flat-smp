@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "8cbec9c3afeb97c47e493813af389588ab9a915433213edccc1e9e0f4b908e43"
-
-[[files]]
 file = "config/Adorn.json5"
 hash = "5ec726b93feca567bca50d79cd90b3ba159086970ff936dd4e0d00f4fdbb955e"
 
@@ -563,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/apocalypse-origins.pw.toml"
-hash = "1d2f3828cfaee80f6d300952c16f89e2bb0728dec78911d862ecf8caa10734f9"
+hash = "385a9fa63bf247abb0a51bfcf9b23ade5b97343b777e5e773d1c095448c3181a"
 metafile = true
 
 [[files]]
@@ -653,17 +649,17 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment.pw.toml"
-hash = "f173d12e4bec1e529d375e5a9e3aeb6e2eb11ef5e15c4be3645f5b541f2b7153"
+hash = "234672988f6d344c27312777c87052bef1eff00befba1f3c353fa793b8ef1ba0"
 metafile = true
 
 [[files]]
 file = "mods/biome-makeover.pw.toml"
-hash = "bd15c4807db19f5c0df026af72ed905575cafa51593b24e35cdbab6dc192c78b"
+hash = "e3e20fb7afe59d91d0ef3afe1d54788fcb9f5c2b4664d79e50077e6057fb492a"
 metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "6bab8553f066278705d6fac0e4e9887e729d0d69fb71e8080e2046c53e2f3443"
+hash = "fd98380e1ae454f58b981a3cb916d56ed57434828adfe00926cdabdb37bd2e84"
 metafile = true
 
 [[files]]
@@ -758,7 +754,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "7ec588c4d9ee3d775d9a8c3efc4bf38bb48ec97043653d13be24d1df5e9d72bb"
+hash = "a6aabcde2d9672741571dd57406feb4157c61f081fb43be74b8697db64c0b47c"
 metafile = true
 
 [[files]]
@@ -887,6 +883,11 @@ hash = "34cf204f9b291735f08270c26d8b8e091055bf55aa388af0f2248616059a0c27"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "38f73b90fe0ce16bfede3492bde736c04a299565de985ddbbd576ec79b34abb7"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "2846c36f482f25a522d648da964512e0231d59210816cdd7a56783d344fa1ec4"
 metafile = true
@@ -943,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "fc3e78eb9cb93282c6f62291d6390c950c4eb2ace7e25b83382b5f4b43cd969b"
+hash = "2afd51fd858412978fbb46ee4305783842d617f31d18b20588d71d2ee31b8cc0"
 metafile = true
 
 [[files]]
@@ -1017,16 +1018,6 @@ hash = "1c38c2fb2dc6cf03a31b68eb04fecec3209391c14188b533f3899df1faba31e1"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "e9e611d1d415a3023065b986563f7c0a2deb3179994b75683978aec0f651b3ee"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-resources.pw.toml"
-hash = "d5b6ecde4992d8515c9fd1b2ede3b03f6fae320eb1e91c1607fd94dd58f10c1a"
-metafile = true
-
-[[files]]
 file = "mods/sandwichable.pw.toml"
 hash = "933b8a3ad0fe426f74d065c4a9524ef78eb2e08dda5490cca26cf5d16fe94090"
 metafile = true
@@ -1049,6 +1040,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "cd182c74e318b804bb29df863bb4bb22fcd42fb53a29923c792f29e190bd569f"
 metafile = true
 
 [[files]]
@@ -1092,6 +1088,16 @@ hash = "e8723fb6d3ed1e7d7a10f53ad1b30dd19a1aaa53dde6f15d4c0ea249a5ee50c2"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "6fedc69a6d5197740f8b33613cf1ba85410cb4ca084f68e4d78ed57a36caa682"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "33becc0f8373784b04f828987e43394775cb3f5fe99ae177b614e288b731ece1"
+metafile = true
+
+[[files]]
 file = "mods/xl-packets-fabric.pw.toml"
 hash = "010437f1fe7ae2ea2690354120886f04a6c69f05c99861d3479e43bbbeed1cde"
 metafile = true
@@ -1113,7 +1119,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples-fabric.pw.toml"
-hash = "70cc49f32d0b64993b6191f7577999d76a160434e157e398cac84be821305fc6"
+hash = "fad5be986f282f1f5bc082970d25fb49fbd875c162835bb32b7f769741a76025"
 metafile = true
 
 [[files]]
