@@ -687,6 +687,16 @@ hash = "e2768d23161411dcddebe4bcfa7f154632706b57f685c34bcf65e22543ec0b46"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "7c95c7eb827be20a2ea98e9a5924e43c8123bfd2bcb01fdcc5a538d37faabe8f"
+metafile = true
+
+[[files]]
+file = "mods/coralreef.pw.toml"
+hash = "7dd0fb511bd5b814583094566305481eaedbd338c090ec6384d8b9d88b4a1fc6"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f59359dcae8d9da125653d9127157a53ee780cff1580d9dcddfff8b9f0a167a9"
 metafile = true
@@ -794,6 +804,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "31b8ee3e8f34273e2989381dde65b8b13e128b6fed0c244f46af62bb47ac354f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-waystones.pw.toml"
+hash = "413d0984a3d66fa6b1136956a77ecafe70e0091ea24da4b016573ee3f1e06d0a"
 metafile = true
 
 [[files]]
