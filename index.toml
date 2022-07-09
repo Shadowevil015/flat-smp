@@ -537,8 +537,18 @@ file = "config/yungsextras-fabric-1_18.toml"
 hash = "df7d4781fb06f73683aa49b027b8270b2af938b3794b1a9f1d673f89137cf47f"
 
 [[files]]
+file = "mods/additional-additions.pw.toml"
+hash = "ffc9d369d6da88e6ccb44555e60cc26b97f9a98652533b812653b6fd229de20e"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "e59138ddd4931750b1e9c0eebc707eeb4ed08d8e2e7edefdc6cc0046505b9e5e"
+metafile = true
+
+[[files]]
+file = "mods/ae2things.pw.toml"
+hash = "6cb4f1c26fd603db739f5e1a888b5e941f1ca65590661660aa05c88b461fcce0"
 metafile = true
 
 [[files]]
@@ -549,6 +559,16 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "003a7bf924d0ed3666ff3396036869b3eb67e38ecb7749aa6c061d5367c2053b"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "befbf07fce6b3811ad7cb191fc5d076ded117c8406ccc5ca31bebb1fb3300d2d"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "5e9ca31128fecec41870c5361ce349cb9c8843459152cec4ba813d837b918b1c"
 metafile = true
 
 [[files]]
@@ -587,6 +607,11 @@ hash = "a8426e649d0f0224154ca4f2b5192c52cc7ecf835a12856219630d3968b5131b"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "1f11e5764ec8585bd0edb068010c47cae9162a8740ab87506d52c6aa81ac48d5"
+metafile = true
+
+[[files]]
 file = "mods/auto-config-updated-api.pw.toml"
 hash = "1ae8dcbdfa0bd670013aa6aa1d0471f628432293fb8085c403ddf0dac1c59624"
 metafile = true
@@ -594,6 +619,11 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "be4a87d6527bbe07b2e6d38e32995779bd5760340505f58391e6318f16ca3f0d"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "85d6e453a9bb4076a0baad9a9d91797b1359b762a61a00c73bbf8ee2b8f14808"
 metafile = true
 
 [[files]]
@@ -642,6 +672,11 @@ hash = "89b8f121d7adb2f5a9721fac25fd183a293a2fbfc69953cb375f8db350488ae4"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components.pw.toml"
+hash = "fb92a9f098e0b0ad7ce8af2d9f046ad8f3ae7179df3a7029423f9ecc27f375aa"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
 metafile = true
@@ -657,6 +692,11 @@ hash = "f59359dcae8d9da125653d9127157a53ee780cff1580d9dcddfff8b9f0a167a9"
 metafile = true
 
 [[files]]
+file = "mods/createplus.pw.toml"
+hash = "8a4802536ab925162bb3e343137d56d0958453f559a38515ff686f49446e81db"
+metafile = true
+
+[[files]]
 file = "mods/croptopia.pw.toml"
 hash = "8f3bd670eadd9b510ced2311c7da0b2444c25f1e9b0ece1fcb1421f4073c1dbf"
 metafile = true
@@ -664,6 +704,11 @@ metafile = true
 [[files]]
 file = "mods/cursedorigins.pw.toml"
 hash = "bdf31c245cd783533a15266188b6940d735473411b1d3d676df01c688e14a774"
+metafile = true
+
+[[files]]
+file = "mods/dank-storage-fabric.pw.toml"
+hash = "69307638834094fe8bbfd8b8d378a641e5f10bfb0c7bfe7f18b296127fcc13af"
 metafile = true
 
 [[files]]
@@ -712,6 +757,11 @@ hash = "fa606c4c823e7fde9d9a444ae80362cb89c09c337ea1fc58dd61f4d29bad75ba"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "bcf7e958563f06113c2b79ce73dfc6a66662d2d524ec962ab74483398e2c8558"
+metafile = true
+
+[[files]]
 file = "mods/extra-generators.pw.toml"
 hash = "31dcae9dfddb9d73f7356a9c074cd77f1e416dd3b2b30c5007c2594206e47b48"
 metafile = true
@@ -742,8 +792,18 @@ hash = "8a1494c34fa08040ce928c6e961baa0ba4dc1d43921cb55a25753e89d21046e7"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "80bfb2aa2ef862c92581a130e47f95f6dc6ae29f8b02b5423d7147752cf2b00c"
+metafile = true
+
+[[files]]
 file = "mods/fastchest.pw.toml"
 hash = "e5178589c0713952a8ab6559583103ac6c8aae1bf19cccf3f0fdbc3058089347"
+metafile = true
+
+[[files]]
+file = "mods/fastgrowth.pw.toml"
+hash = "bfb533d23fb942d242d0df03ba94082b311931cb752923e440fdfb22f344ebdb"
 metafile = true
 
 [[files]]
@@ -792,6 +852,16 @@ hash = "86a400ba8e043c0a45a825fd0c3e5dbce8cf51925309978fc6cf3c526d672fb5"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "c55eea854c87f49d13ef680b25daca33777a5ca81bfc1fc7b132f1c6b28c86c0"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "34cf204f9b291735f08270c26d8b8e091055bf55aa388af0f2248616059a0c27"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "2846c36f482f25a522d648da964512e0231d59210816cdd7a56783d344fa1ec4"
 metafile = true
@@ -834,6 +904,16 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "06af9a1b6e6cde17788bd4f2a3dca136b1ac27727af40613646d7194f23980fb"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "030b818f7aa75596fe5c0a04b15c66dc0531c79aee5820a30379cc5af77ee46d"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix-fabric.pw.toml"
+hash = "4337963523796d1b7be7e5a18774be0ce3c0f1581146191b9a8445d7e8cdaf8b"
 metafile = true
 
 [[files]]
@@ -882,6 +962,11 @@ hash = "8af8ebe6e89a19e72901dac8581a87b251e19faba856459379456306bfb12267"
 metafile = true
 
 [[files]]
+file = "mods/rats-mischief.pw.toml"
+hash = "7c0573457dffe5098e127f76dfe92d4374de821c0bddbb47d958ba81ee114f96"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "d599151432acf03cf8dfb26c80321ab1b0f0adf070b75c5963155ad80d782d51"
 metafile = true
@@ -891,6 +976,16 @@ file = "mods/refinedstorage2-platform-fabric-2.0.0-milestone.1.4.jar"
 hash = "0b0ad371ef74fb2e3fa1e7f1949a14d9aa83ecae930a495be2f4470343b358ef"
 
 [[files]]
+file = "mods/replanter.pw.toml"
+hash = "654461b719e83c4f8f2b39ff244efef905e0509a13f283b25cc0697706a7ae9d"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "1c38c2fb2dc6cf03a31b68eb04fecec3209391c14188b533f3899df1faba31e1"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "e9e611d1d415a3023065b986563f7c0a2deb3179994b75683978aec0f651b3ee"
 metafile = true
@@ -898,6 +993,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-resources.pw.toml"
 hash = "d5b6ecde4992d8515c9fd1b2ede3b03f6fae320eb1e91c1607fd94dd58f10c1a"
+metafile = true
+
+[[files]]
+file = "mods/sandwichable.pw.toml"
+hash = "933b8a3ad0fe426f74d065c4a9524ef78eb2e08dda5490cca26cf5d16fe94090"
 metafile = true
 
 [[files]]
@@ -928,6 +1028,16 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "3574aff8a8c1fef8accb261b1d91cbd041b4dcb12eb7311c7eb1aad710aefe1d"
+metafile = true
+
+[[files]]
+file = "mods/tool-stats.pw.toml"
+hash = "71031f12721235c97968e43b61977206b95ccecec4a6aad6503932ee8eb03b10"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack-fabric.pw.toml"
+hash = "fb2a1a742ef32f48fb6f5e73e91422bd751d0b8b28f055ac3fcf822182f1f55c"
 metafile = true
 
 [[files]]
@@ -968,6 +1078,11 @@ metafile = true
 [[files]]
 file = "mods/ydms-red-panda.pw.toml"
 hash = "6b5c47868790abf4675ff20032305342a48cd284f35e89d915f4f22a170a31e2"
+metafile = true
+
+[[files]]
+file = "mods/youre-in-grave-danger.pw.toml"
+hash = "08c07bd09429bc90bb34e0692cf2292219398c551c1b802722da03810e07f547"
 metafile = true
 
 [[files]]

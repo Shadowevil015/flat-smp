@@ -1,0 +1,13 @@
+name = "FastGrowth"
+filename = "fastgrowth-1.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d53d7bc48a7becd935c1faef2b498711447d19f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3768991
+project-id = 403544
