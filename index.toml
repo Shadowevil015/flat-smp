@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "ee81cbe0c62f80d8e7911ce7db45a7bcf5931cbddbeadcf00dedb11a500a7260"
+hash = "6c5c605e5011a8f358da4e5f130bb15c2d56f59bf3306b6c0d05ec1028931900"
 
 [[files]]
 file = "config/Adorn.json5"
@@ -837,11 +837,6 @@ hash = "06af9a1b6e6cde17788bd4f2a3dca136b1ac27727af40613646d7194f23980fb"
 metafile = true
 
 [[files]]
-file = "mods/naturalist.pw.toml"
-hash = "1ee6fb30ec330b959f8a8034577b0880cd9cf53cd8af988d4233cb69d68e892d"
-metafile = true
-
-[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "057de9b6acc68c428738a8f7a3fea84590f3c2f2ba14024e2034f493075b02e8"
 metafile = true
@@ -879,11 +874,6 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "f036e8eadae24dcb610a3440182aebc4e0420aece74b6959c2fa658d771450fd"
-metafile = true
-
-[[files]]
-file = "mods/pleasant-pigeons.pw.toml"
-hash = "ff7978c2a71457db226ee211a221baec54535fb268e5cf658ff13ad63aa61b9f"
 metafile = true
 
 [[files]]

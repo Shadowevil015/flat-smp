@@ -1,12 +1,12 @@
 name = "flat-smp"
 author = "Shadowevil015 & Flat"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3b9a126d7727f1dc56e978a37534e0ba0efd660537cda384cbf64bdec9e39e31"
+hash = "a00900738f919a5391c100030d0c106c73f9b0f68009d397d8731bb53a8495da"
 
 [versions]
 fabric = "0.14.8"
