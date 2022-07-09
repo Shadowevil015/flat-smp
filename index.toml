@@ -883,11 +883,6 @@ hash = "34cf204f9b291735f08270c26d8b8e091055bf55aa388af0f2248616059a0c27"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "38f73b90fe0ce16bfede3492bde736c04a299565de985ddbbd576ec79b34abb7"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "2846c36f482f25a522d648da964512e0231d59210816cdd7a56783d344fa1ec4"
 metafile = true
@@ -1015,6 +1010,16 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "1c38c2fb2dc6cf03a31b68eb04fecec3209391c14188b533f3899df1faba31e1"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "55c91535c1f07a0718aee9b23cc355df43aeb5003a3d57fc3e26fd6c72f5adb6"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "d5b6ecde4992d8515c9fd1b2ede3b03f6fae320eb1e91c1607fd94dd58f10c1a"
 metafile = true
 
 [[files]]
