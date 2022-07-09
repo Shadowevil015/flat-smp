@@ -817,6 +817,11 @@ hash = "bf801669f8c216d109549b5d5c594e66cd9916d0a57fbf0786d1c38a1db3525a"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "b5535b4c8d3880f4b98efc5db1176e90ec319e387bd3161f660145056d40ad00"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "59948a45e0fe63daee394c4707081e2f01b6291dae9336e5b7c2a46dc59ba16e"
 metafile = true
