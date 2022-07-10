@@ -1,0 +1,12 @@
+{
+  "enableDesertWorkshops": true,
+  "desertWorkshopWeight": 1,
+  "enablePlainsWorkshops": true,
+  "plainsWorkshopWeight": 2,
+  "enableSavannaWorkshops": true,
+  "savannaWorkshopWeight": 2,
+  "enableSnowyWorkshops": true,
+  "snowyWorkshopWeight": 1,
+  "enableTaigaWorkshops": true,
+  "taigaWorkshopWeight": 2
+}

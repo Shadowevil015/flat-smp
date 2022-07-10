@@ -638,6 +638,11 @@ hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
 metafile = true
 
 [[files]]
+file = "mods/besmirchment-2.pw.toml"
+hash = "0634a57c90d502babd47467d00c720aa06b2e5e4bdec63aa674ccb820781282a"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "d0d66f65922d4d0b4421c3edeea3bb352a3d567458c0c5ff293e2fbcd588e0e5"
 metafile = true
@@ -688,6 +693,11 @@ hash = "fb92a9f098e0b0ad7ce8af2d9f046ad8f3ae7179df3a7029423f9ecc27f375aa"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits-for-fabric.pw.toml"
+hash = "895b24d957375bdcec76f378f79d1b20780e71beef61ea3f2b3aa0c153a33c27"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
 metafile = true
@@ -708,6 +718,11 @@ hash = "7dd0fb511bd5b814583094566305481eaedbd338c090ec6384d8b9d88b4a1fc6"
 metafile = true
 
 [[files]]
+file = "mods/couplings.pw.toml"
+hash = "f11a3f0c5dd3c319162b5c42fabd24d0bbb7bcbe383dc5c77d361c7b64488acf"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f59359dcae8d9da125653d9127157a53ee780cff1580d9dcddfff8b9f0a167a9"
 metafile = true
@@ -715,6 +730,11 @@ metafile = true
 [[files]]
 file = "mods/createplus.pw.toml"
 hash = "8a4802536ab925162bb3e343137d56d0958453f559a38515ff686f49446e81db"
+metafile = true
+
+[[files]]
+file = "mods/croptosis.pw.toml"
+hash = "1496f7934e3cb4a0ad45bdffe5b79c1c53e858cd8a6fb148c15b944d6ed919a0"
 metafile = true
 
 [[files]]
@@ -868,6 +888,21 @@ hash = "5cea0de4f3bc0e613c9f6dc6a9d18714c45a477d92f3d0bf55b65f6abea8ba11"
 metafile = true
 
 [[files]]
+file = "mods/half-doors.pw.toml"
+hash = "7a7f483a9298f9373184548c331196b43052bc1357e62a3c10fdf8ca6c2a2d56"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering-fabric.pw.toml"
+hash = "a2c5ed8ec06b5d9313e94c83685013f726a2503b64f32e19b8f326af6c76d1f9"
+metafile = true
+
+[[files]]
+file = "mods/improved-stations.pw.toml"
+hash = "ef482a5d506e2a86ceef718953c165b3bdb585c1ba3f1364f373c441ce2f2ee2"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "8144bc5631457a762074a032a196e7cf5b40607f705923ee3305c9d20aed61cf"
 metafile = true
@@ -940,6 +975,11 @@ metafile = true
 [[files]]
 file = "mods/logical-zoom.pw.toml"
 hash = "b8ac8ef13235f9728b85eddb5c2739ad28689a7cb1d4d308b17deb6d63bba9ca"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "ef86081747bd21760cc3bc89d5edd6bc9bb4151699915c448e4905403103b567"
 metafile = true
 
 [[files]]
@@ -1023,8 +1063,18 @@ hash = "8af8ebe6e89a19e72901dac8581a87b251e19faba856459379456306bfb12267"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "10affce7c1c9de85819a839b177979f414be3a6bb65e4033b30b425cce3fb3fd"
+metafile = true
+
+[[files]]
 file = "mods/promenade.pw.toml"
 hash = "19043dd6917c0858a8d1ac0ae88afeb85c61b94906921baab215fe94c1a5408c"
+metafile = true
+
+[[files]]
+file = "mods/public-gui-announcement.pw.toml"
+hash = "959f0fa449a2015a467c927a329eed15e3c899864601b7664bad19c759431afd"
 metafile = true
 
 [[files]]
