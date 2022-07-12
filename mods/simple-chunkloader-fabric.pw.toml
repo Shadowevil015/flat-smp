@@ -1,0 +1,13 @@
+name = "Simple Chunkloader [FABRIC]"
+filename = "simplechunkloader-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ee68b288c1762c9ed8b2955f99abb5580427085"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3802368
+project-id = 626846

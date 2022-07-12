@@ -1118,6 +1118,11 @@ hash = "d580e87dd3fbea1d9bd98da604ff9ed7de782565e507a113031f0555763901aa"
 metafile = true
 
 [[files]]
+file = "mods/simple-chunkloader-fabric.pw.toml"
+hash = "26f46b46418c64c6a5108db30e44a69562457c5521e2bea92a40e347d300b42f"
+metafile = true
+
+[[files]]
 file = "mods/simple-teleporters-fabric.pw.toml"
 hash = "e1208cc70150db35017300490277ec393ddb5fcc9cf3e1718cf87c2bbfabb5ff"
 metafile = true
