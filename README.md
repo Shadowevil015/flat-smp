@@ -101,6 +101,7 @@
 - Pehkui (<https://minecraft.curseforge.com/projects/319596>)
 - Plant In A Jar (<https://minecraft.curseforge.com/projects/397183>)
 - Polymorph (Fabric) (<https://minecraft.curseforge.com/projects/397434>)
+- Powah! (Rearchitected) (<https://minecraft.curseforge.com/projects/633483>)
 - Presence Footsteps [Fabric] (<https://minecraft.curseforge.com/projects/334259>)
 - Promenade (<https://minecraft.curseforge.com/projects/399648>)
 - Public Gui Announcement (<https://minecraft.curseforge.com/projects/341727>)
