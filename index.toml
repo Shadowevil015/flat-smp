@@ -955,7 +955,7 @@ metafile = true
 
 [[files]]
 file = "mods/apocalypse-origins.pw.toml"
-hash = "385a9fa63bf247abb0a51bfcf9b23ade5b97343b777e5e773d1c095448c3181a"
+hash = "bf7da7692b4308db81d3059975ae0501b5fe0e714170c144adc9f5753a883b9e"
 metafile = true
 
 [[files]]
@@ -1055,7 +1055,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "fd98380e1ae454f58b981a3cb916d56ed57434828adfe00926cdabdb37bd2e84"
+hash = "193a78319e5970dcef783720f96e01d6d1c61098517011bf72b8d8012e286f1d"
 metafile = true
 
 [[files]]
@@ -1080,7 +1080,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits-for-fabric.pw.toml"
-hash = "895b24d957375bdcec76f378f79d1b20780e71beef61ea3f2b3aa0c153a33c27"
+hash = "b9cca242f25d9894525c2236e2831595eade2fd8c334c0ab7837fd7b506abf9d"
 metafile = true
 
 [[files]]
@@ -1160,7 +1160,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecologics.pw.toml"
-hash = "d114b9fa652f44e2dcaab0d8ff63faaf718b341816878a64d27cc7cdf21dc7db"
+hash = "83e233e2d883eb9d470a6898d62e5b2bed4d971447af967012f926187219cdff"
 metafile = true
 
 [[files]]
@@ -1175,7 +1175,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "a6aabcde2d9672741571dd57406feb4157c61f081fb43be74b8697db64c0b47c"
+hash = "e555fc6193553393d2cb55efe723a2ed726329942627519762ba8886d573b751"
 metafile = true
 
 [[files]]
@@ -1195,7 +1195,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "bcf7e958563f06113c2b79ce73dfc6a66662d2d524ec962ab74483398e2c8558"
+hash = "7782421a12d63ee69419eb0f0e6993f1a168f5c6936f9405b0d40b161b68179a"
 metafile = true
 
 [[files]]
@@ -1205,7 +1205,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-origins.pw.toml"
-hash = "23f3624b07b9ddd076b59cb4353843164e16b8936b84f6f49a14eab1e010d85d"
+hash = "f21a2091e05a860abf1436effd976cfe281b907523d01cef9868f7b728302b6e"
 metafile = true
 
 [[files]]
@@ -1265,7 +1265,7 @@ metafile = true
 
 [[files]]
 file = "mods/haema.pw.toml"
-hash = "5cea0de4f3bc0e613c9f6dc6a9d18714c45a477d92f3d0bf55b65f6abea8ba11"
+hash = "46312f38a474da79cc1e6c58b80ac3db0dba21ce4dfb3fb25300c4b10d024303"
 metafile = true
 
 [[files]]
@@ -1315,7 +1315,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "c55eea854c87f49d13ef680b25daca33777a5ca81bfc1fc7b132f1c6b28c86c0"
+hash = "08b1011cc3f0df440355e43fb4373927892c44e1c474e8cd6cf8a0bd010bf258"
 metafile = true
 
 [[files]]
@@ -1369,11 +1369,6 @@ hash = "bd31d80434c5d97cb8c2f758f7b58f1d81f1f2309f6cc628d06e93a53ee52796"
 metafile = true
 
 [[files]]
-file = "mods/megaparrot.pw.toml"
-hash = "0225fb94694fdbdb08ffb9917483074380ffb50ddce7afa19ac20be646f221f5"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "5977b263e2694941ddc2e5279259089215fb72ea53ca1491a0e101c97896311a"
 metafile = true
@@ -1410,7 +1405,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "057de9b6acc68c428738a8f7a3fea84590f3c2f2ba14024e2034f493075b02e8"
+hash = "5fcd8828fdd03f5ad5656d1143ab8c2dfda8415ed210a4ef3602e3562096b423"
 metafile = true
 
 [[files]]
@@ -1485,7 +1480,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "55c91535c1f07a0718aee9b23cc355df43aeb5003a3d57fc3e26fd6c72f5adb6"
+hash = "fa25779d8061f5614d7957b00127bea80aadf71df7f8f6e9e6d4b5a6e98a9764"
 metafile = true
 
 [[files]]
@@ -1575,12 +1570,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6fedc69a6d5197740f8b33613cf1ba85410cb4ca084f68e4d78ed57a36caa682"
+hash = "5dc7d03c084c7b3c51d85b96166bf9fc70fa06735d23a71708c967329fc85d79"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "33becc0f8373784b04f828987e43394775cb3f5fe99ae177b614e288b731ece1"
+hash = "cf645e78f3e97c764fedb98e147a764a95cb65b12e11d50260fa1159fbf83ba6"
 metafile = true
 
 [[files]]
