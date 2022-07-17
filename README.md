@@ -86,7 +86,6 @@
 - Logical Zoom (<https://minecraft.curseforge.com/projects/356461>)
 - Login Protection[Forge/Fabric] (<https://minecraft.curseforge.com/projects/358304>)
 - MCDiscordChat (<https://minecraft.curseforge.com/projects/548539>)
-- MegaParrot (<https://minecraft.curseforge.com/projects/561527>)
 - Memory Leak Fix (<https://modrinth.com/mod/NRjRiSSD>)
 - Mod Menu (<https://minecraft.curseforge.com/projects/308702>)
 - Space Dimensions (Fabric) (<https://minecraft.curseforge.com/projects/429841>)
