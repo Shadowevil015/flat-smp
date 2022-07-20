@@ -929,6 +929,18 @@ file = "config/yungsextras-fabric-1_18.toml"
 hash = "df7d4781fb06f73683aa49b027b8270b2af938b3794b1a9f1d673f89137cf47f"
 
 [[files]]
+file = "mods/AwesomeDungeonEnd-Fabric-1.18.2-1.0.3.jar"
+hash = "5a9b9bbda50597732ffdd61f5313d3c2c205c7f39d09ccdf97d1b75dd5bf6289"
+
+[[files]]
+file = "mods/AwesomeDungeonNether-Fabric-1.18.2-1.0.3.jar"
+hash = "11636d7b7abf9a819208592f881d71a3a4dc3c5efede4de1d7c05e2661ca299b"
+
+[[files]]
+file = "mods/LibraryFerret-Fabric-1.18.2-2.0.0.jar"
+hash = "de1c2329ded0ea67be4ab8d16ec3f42661bc9d4afc4a7ac0428efd68d376cb2b"
+
+[[files]]
 file = "mods/additional-additions.pw.toml"
 hash = "ffc9d369d6da88e6ccb44555e60cc26b97f9a98652533b812653b6fd229de20e"
 metafile = true
@@ -1006,16 +1018,6 @@ metafile = true
 [[files]]
 file = "mods/auto-config-updated-api.pw.toml"
 hash = "1ae8dcbdfa0bd670013aa6aa1d0471f628432293fb8085c403ddf0dac1c59624"
-metafile = true
-
-[[files]]
-file = "mods/awesome-dungeon-nether-fabric.pw.toml"
-hash = "1af55874e77915edd0028a7e39c2a1d92f0fd13d2362b1e126d601ac1163ceb0"
-metafile = true
-
-[[files]]
-file = "mods/awesome-dungeon-the-end-fabric.pw.toml"
-hash = "ce245ed1481929b81757284fd63ed481879da1d175260e9831457e84f20b460f"
 metafile = true
 
 [[files]]
@@ -1264,9 +1266,8 @@ hash = "0eccead743b7a2a4fdd6ba5c58fc109b4a08f360b0d7f66df135501728ae102e"
 metafile = true
 
 [[files]]
-file = "mods/fish-of-thieves.pw.toml"
-hash = "a399b7bb794bd4cd059d901aae4a36e0ee3ddc0fcb20c846d2759cfc06568a85"
-metafile = true
+file = "mods/fish_of_thieves-mc1.18.2-v1.0.7-fabric.jar"
+hash = "37d2c2db37150a5a4c191af3a114f19f400fd59703a9f311482f2d50ebf6b685"
 
 [[files]]
 file = "mods/floral-flair-fabric.pw.toml"
@@ -1366,11 +1367,6 @@ metafile = true
 [[files]]
 file = "mods/libblockattributes.pw.toml"
 hash = "6ca534fc017471413ac14ed9d56323e388b2d7f3979f9b466fa5d9bc00cafb69"
-metafile = true
-
-[[files]]
-file = "mods/library-ferret-fabric.pw.toml"
-hash = "9fdb1bc03601713f718165b8463b70fedae8a65cee4c2e539a0fc3c1262ea545"
 metafile = true
 
 [[files]]

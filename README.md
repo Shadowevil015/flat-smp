@@ -1,3 +1,6 @@
+- AwesomeDungeonEnd-Fabric-1.18.2-1.0.3.jar
+- AwesomeDungeonNether-Fabric-1.18.2-1.0.3.jar
+- LibraryFerret-Fabric-1.18.2-2.0.0.jar
 - Additional Additions | Fabric (<https://minecraft.curseforge.com/projects/508556>)
 - Adorn (<https://minecraft.curseforge.com/projects/320215>)
 - AE2 Things (<https://minecraft.curseforge.com/projects/563800>)
@@ -14,8 +17,6 @@
 - Artifacts (Fabric) (<https://minecraft.curseforge.com/projects/401236>)
 - AttributeFix (<https://minecraft.curseforge.com/projects/280510>)
 - Auto Config Updated API (<https://minecraft.curseforge.com/projects/373261>)
-- Awesome Dungeon Nether edition - Fabric (<https://minecraft.curseforge.com/projects/566642>)
-- Awesome Dungeon The End edition - Fabric (<https://minecraft.curseforge.com/projects/575402>)
 - bad packets (<https://minecraft.curseforge.com/projects/615134>)
 - Balm (Fabric Edition) (<https://minecraft.curseforge.com/projects/500525>)
 - BCLib (<https://minecraft.curseforge.com/projects/495191>)
@@ -65,7 +66,7 @@
 - Farmer's Delight [Fabric] (<https://minecraft.curseforge.com/projects/482834>)
 - FastGrowth (<https://minecraft.curseforge.com/projects/403544>)
 - FerriteCore (Fabric) (<https://minecraft.curseforge.com/projects/459857>)
-- Fish of Thieves (<https://minecraft.curseforge.com/projects/568372>)
+- fish_of_thieves-mc1.18.2-v1.0.7-fabric.jar
 - 🌷Floral Flair🌷 (<https://minecraft.curseforge.com/projects/549363>)
 - Gamma Utils (<https://minecraft.curseforge.com/projects/492295>)
 - GeckoLib (<https://minecraft.curseforge.com/projects/388172>)
@@ -86,7 +87,6 @@
 - LambDynamicLights (<https://modrinth.com/mod/yBW8D80W>)
 - LazyDFU (<https://minecraft.curseforge.com/projects/433518>)
 - Lib Block Attributes (<https://minecraft.curseforge.com/projects/317995>)
-- Library Ferret - Fabric (<https://minecraft.curseforge.com/projects/532730>)
 - Lifts (<https://minecraft.curseforge.com/projects/451554>)
 - Lithium (Fabric) (<https://minecraft.curseforge.com/projects/360438>)
 - Logical Zoom (<https://minecraft.curseforge.com/projects/356461>)
