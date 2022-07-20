@@ -1,13 +1,13 @@
 name = "YDM's Red Panda"
-filename = "redpanda-fabric-1.18.x-1.0.0.jar"
+filename = "redpanda-fabric-1.18.x-1.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "106cb2196959e06c8b769dbdd7c31c15d95e616b"
+hash = "c4cb12fd3f6982324a219e04efe0b0e40a4b4fce"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3855984
+file-id = 3883981
 project-id = 623035

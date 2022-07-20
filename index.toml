@@ -940,12 +940,12 @@ metafile = true
 
 [[files]]
 file = "mods/ae2things.pw.toml"
-hash = "6cb4f1c26fd603db739f5e1a888b5e941f1ca65590661660aa05c88b461fcce0"
+hash = "2619e05c47ce319bbdb067666768eee83dc297848e2998f8855f4495ade99cfd"
 metafile = true
 
 [[files]]
 file = "mods/amethyst-imbuement.pw.toml"
-hash = "ef825e334f6368c950a5a6b470725b4019fc61648b001678de0238599b06dc2d"
+hash = "22e2e0becddfc61cd1d436cb833ebb693b26c62d944b76e31ec4a60bd1ef50d7"
 metafile = true
 
 [[files]]
@@ -1050,12 +1050,12 @@ metafile = true
 
 [[files]]
 file = "mods/biome-makeover.pw.toml"
-hash = "e3e20fb7afe59d91d0ef3afe1d54788fcb9f5c2b4664d79e50077e6057fb492a"
+hash = "51352079148522b4f943180f449014316d798a64e204be0d02165399e8d425a7"
 metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "193a78319e5970dcef783720f96e01d6d1c61098517011bf72b8d8012e286f1d"
+hash = "1c8c3b187656b82130c32cc958839f6181a42568bc652c0e6391646965be2cfe"
 metafile = true
 
 [[files]]
@@ -1260,12 +1260,12 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "6d1e9a6628f25c3c20e853fa085f2e7679fe10d7117ad7a6593e1c1016f1c570"
+hash = "810dfe46f616e54d2659432edcab7fa0f0c0c53ea9773ce817647ee483278920"
 metafile = true
 
 [[files]]
 file = "mods/haema.pw.toml"
-hash = "46312f38a474da79cc1e6c58b80ac3db0dba21ce4dfb3fb25300c4b10d024303"
+hash = "ce1b70810fa9acf0c7929874dfe24979338b9d7fb1f1bae5af01856e4bb5b211"
 metafile = true
 
 [[files]]
@@ -1375,7 +1375,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "5977b263e2694941ddc2e5279259089215fb72ea53ca1491a0e101c97896311a"
+hash = "c245e4e6896f1702f29aaf0bfef3cbce1d82b4f0fb8d44a526690f4d965f75e0"
 metafile = true
 
 [[files]]
@@ -1545,7 +1545,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
-hash = "fb2a1a742ef32f48fb6f5e73e91422bd751d0b8b28f055ac3fcf822182f1f55c"
+hash = "73449347a12ec4731aea47a1ce16c97347bcf7abf64dd3a0cd0e5c3ce85019cf"
 metafile = true
 
 [[files]]
@@ -1574,23 +1574,13 @@ hash = "e8723fb6d3ed1e7d7a10f53ad1b30dd19a1aaa53dde6f15d4c0ea249a5ee50c2"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "c985086e33576afd91d197950ddec8cbb9fc6002dab937d24a60ba315f6c390b"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "cf645e78f3e97c764fedb98e147a764a95cb65b12e11d50260fa1159fbf83ba6"
-metafile = true
-
-[[files]]
 file = "mods/xl-packets-fabric.pw.toml"
 hash = "010437f1fe7ae2ea2690354120886f04a6c69f05c99861d3479e43bbbeed1cde"
 metafile = true
 
 [[files]]
 file = "mods/ydms-red-panda.pw.toml"
-hash = "6b5c47868790abf4675ff20032305342a48cd284f35e89d915f4f22a170a31e2"
+hash = "e38f877a0023988e12af06f7cc7167cd6136777f847a69ec326624caa3e17d3c"
 metafile = true
 
 [[files]]
