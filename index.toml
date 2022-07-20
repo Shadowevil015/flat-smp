@@ -1009,6 +1009,16 @@ hash = "1ae8dcbdfa0bd670013aa6aa1d0471f628432293fb8085c403ddf0dac1c59624"
 metafile = true
 
 [[files]]
+file = "mods/awesome-dungeon-nether-fabric.pw.toml"
+hash = "1af55874e77915edd0028a7e39c2a1d92f0fd13d2362b1e126d601ac1163ceb0"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-the-end-fabric.pw.toml"
+hash = "ce245ed1481929b81757284fd63ed481879da1d175260e9831457e84f20b460f"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "be4a87d6527bbe07b2e6d38e32995779bd5760340505f58391e6318f16ca3f0d"
 metafile = true
@@ -1051,6 +1061,11 @@ metafile = true
 [[files]]
 file = "mods/biome-makeover.pw.toml"
 hash = "51352079148522b4f943180f449014316d798a64e204be0d02165399e8d425a7"
+metafile = true
+
+[[files]]
+file = "mods/blossom.pw.toml"
+hash = "e442b88beaa8b031c08ce5a85e5eacc4c33f65a40ef606ee70f24268f5a4cadf"
 metafile = true
 
 [[files]]
@@ -1249,6 +1264,11 @@ hash = "0eccead743b7a2a4fdd6ba5c58fc109b4a08f360b0d7f66df135501728ae102e"
 metafile = true
 
 [[files]]
+file = "mods/fish-of-thieves.pw.toml"
+hash = "a399b7bb794bd4cd059d901aae4a36e0ee3ddc0fcb20c846d2759cfc06568a85"
+metafile = true
+
+[[files]]
 file = "mods/floral-flair-fabric.pw.toml"
 hash = "bf801669f8c216d109549b5d5c594e66cd9916d0a57fbf0786d1c38a1db3525a"
 metafile = true
@@ -1346,6 +1366,11 @@ metafile = true
 [[files]]
 file = "mods/libblockattributes.pw.toml"
 hash = "6ca534fc017471413ac14ed9d56323e388b2d7f3979f9b466fa5d9bc00cafb69"
+metafile = true
+
+[[files]]
+file = "mods/library-ferret-fabric.pw.toml"
+hash = "9fdb1bc03601713f718165b8463b70fedae8a65cee4c2e539a0fc3c1262ea545"
 metafile = true
 
 [[files]]
@@ -1529,8 +1554,18 @@ hash = "cd182c74e318b804bb29df863bb4bb22fcd42fb53a29923c792f29e190bd569f"
 metafile = true
 
 [[files]]
+file = "mods/subterrestrial.pw.toml"
+hash = "1045aa1e77e043409ed4fd876bb472de0f0696409a9d9a6344f4ed835a44c8c9"
+metafile = true
+
+[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
+metafile = true
+
+[[files]]
+file = "mods/the-extractinator.pw.toml"
+hash = "d55f5d9c18e7a04c254134e0a92331f795fc64526b143316b77638ad3068c308"
 metafile = true
 
 [[files]]
