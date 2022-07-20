@@ -1156,6 +1156,11 @@ hash = "341886dcf5776acf3b8c02724a1a4cb74694292dbeab983724f6b4e271893c91"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration-fabric.pw.toml"
+hash = "d250a5a8064eab2829005e90e65381467195c44b46269fe87f65dee23d72fc20"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
 metafile = true
@@ -1390,11 +1395,6 @@ hash = "ef86081747bd21760cc3bc89d5edd6bc9bb4151699915c448e4905403103b567"
 metafile = true
 
 [[files]]
-file = "mods/mcdiscordchat.pw.toml"
-hash = "bd31d80434c5d97cb8c2f758f7b58f1d81f1f2309f6cc628d06e93a53ee52796"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "c245e4e6896f1702f29aaf0bfef3cbce1d82b4f0fb8d44a526690f4d965f75e0"
 metafile = true
@@ -1457,6 +1457,11 @@ metafile = true
 [[files]]
 file = "mods/plant-in-a-jar.pw.toml"
 hash = "0cc3c9b9279948e969bf1f6a1dc0a8083632b652424523376e9a96556db94d0a"
+metafile = true
+
+[[files]]
+file = "mods/player-events.pw.toml"
+hash = "63770268748e425393725a0c268dcbdab9ed89c5a08c842f0cd2c9ac27f06758"
 metafile = true
 
 [[files]]

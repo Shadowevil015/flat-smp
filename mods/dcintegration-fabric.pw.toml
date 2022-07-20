@@ -1,0 +1,13 @@
+name = "Discord Integration Fabric"
+filename = "dcintegration-fabric-2.4.2-1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ceb0b541a6883e0f529f7b8fb49d0d526ba12c19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3794032
+project-id = 493679
