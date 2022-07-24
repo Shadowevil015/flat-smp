@@ -1102,7 +1102,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
+hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
 metafile = true
 
 [[files]]
@@ -1158,6 +1158,11 @@ metafile = true
 [[files]]
 file = "mods/deep-mob-learning-refabricated.pw.toml"
 hash = "ea848617ba6f658e61983a3ce410269a1a2ff6b7f29253a807bcdace861d0025"
+metafile = true
+
+[[files]]
+file = "mods/dimension-fix-some-forge-patches-ported.pw.toml"
+hash = "83018bfaec9493e66af18393f6d7452ac08563ae37d510cfcef17e1fde6d2553"
 metafile = true
 
 [[files]]
@@ -1256,6 +1261,11 @@ hash = "bfb533d23fb942d242d0df03ba94082b311931cb752923e440fdfb22f344ebdb"
 metafile = true
 
 [[files]]
+file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "c178b68d473bba33bf17fccaccd2ec5c76cd68e9e96accda07145d6f7aef2b8c"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "0eccead743b7a2a4fdd6ba5c58fc109b4a08f360b0d7f66df135501728ae102e"
 metafile = true
@@ -1267,6 +1277,11 @@ hash = "37d2c2db37150a5a4c191af3a114f19f400fd59703a9f311482f2d50ebf6b685"
 [[files]]
 file = "mods/floral-flair-fabric.pw.toml"
 hash = "bf801669f8c216d109549b5d5c594e66cd9916d0a57fbf0786d1c38a1db3525a"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "0edd785d181e5b0584a73a28efc8a031bc313e493f612df64f2a6e8ded9cb568"
 metafile = true
 
 [[files]]
@@ -1390,6 +1405,11 @@ hash = "ef86081747bd21760cc3bc89d5edd6bc9bb4151699915c448e4905403103b567"
 metafile = true
 
 [[files]]
+file = "mods/magnum-torch-fabric.pw.toml"
+hash = "a471f5bfb41967d11685a706851f6bb907fb9d847a00f4cca87e67ff131b4cfe"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "c245e4e6896f1702f29aaf0bfef3cbce1d82b4f0fb8d44a526690f4d965f75e0"
 metafile = true
@@ -1485,6 +1505,11 @@ hash = "959f0fa449a2015a467c927a329eed15e3c899864601b7664bad19c759431afd"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib-fabric.pw.toml"
+hash = "8e59815b193e52f162b5ded34a4b1dfdac31b880893ab286ac12a970903ceb4b"
+metafile = true
+
+[[files]]
 file = "mods/reborncore.pw.toml"
 hash = "f0715bc089d1779fda4585603916eeda828d8c0a6f4bdbf88150ac27a0dd26ee"
 metafile = true
@@ -1557,6 +1582,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone-fabric.pw.toml"
+hash = "a3f7c5faf3ff31ef0f8cf2ad1890735b52fe3e79fa1608b0fc012956c8c6767b"
 metafile = true
 
 [[files]]
