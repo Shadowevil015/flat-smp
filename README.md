@@ -82,6 +82,7 @@
 - Jade 🔍 (<https://minecraft.curseforge.com/projects/324717>)
 - JamLib (<https://minecraft.curseforge.com/projects/623764>)
 - JourneyMap (<https://minecraft.curseforge.com/projects/32274>)
+- Kibe Utilities (<https://minecraft.curseforge.com/projects/388832>)
 - Krypton (<https://minecraft.curseforge.com/projects/428912>)
 - LambDynamicLights (<https://modrinth.com/mod/yBW8D80W>)
 - LazyDFU (<https://minecraft.curseforge.com/projects/433518>)
