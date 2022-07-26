@@ -1072,7 +1072,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "f027f2c28683241586012b606bf3971393ef699da50159e769b15c76ba9a4dba"
+hash = "43b267ab1abf43db08d5b1b57d24e1a090fcd5c7df6673a105013a9015d956ad"
 metafile = true
 
 [[files]]
@@ -1336,7 +1336,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "2370e2654b50288f953f337b98527cbf2dfaf9f3f797115969e11f62db62216c"
+hash = "1ea04b482ec1a591ae19507ef5ae88c06270de3520f9ffc974d70e8d55b24de5"
 metafile = true
 
 [[files]]
@@ -1361,7 +1361,7 @@ metafile = true
 
 [[files]]
 file = "mods/kibe.pw.toml"
-hash = "defe36330eab9fc6d45a5bcdbd5b20b67ad79b9ee599f086683172fc129be5de"
+hash = "508dd3ddc4a4d7880b80a3806b24002a1bdf90dd608da1e51b58e845bcc66fce"
 metafile = true
 
 [[files]]
@@ -1531,7 +1531,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "fa25779d8061f5614d7957b00127bea80aadf71df7f8f6e9e6d4b5a6e98a9764"
+hash = "b4d592a547646ee8c1645b8c892348a5bd6772ae4dc821125b9b6888826b3695"
 metafile = true
 
 [[files]]
