@@ -1,0 +1,13 @@
+name = "SkyLib"
+filename = "skylorlib-1.3.35.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7a26d460a58e159acf5e893a5497407d3931fbb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3790470
+project-id = 513100

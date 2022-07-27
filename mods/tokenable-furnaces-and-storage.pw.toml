@@ -1,0 +1,13 @@
+name = "Tokenable Furnaces and Storage"
+filename = "tokenablefurnaces-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14a7a1e48363ba2103f275958746ead6eafedcc2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3769876
+project-id = 510379

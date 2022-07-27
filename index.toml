@@ -1196,6 +1196,11 @@ hash = "e555fc6193553393d2cb55efe723a2ed726329942627519762ba8886d573b751"
 metafile = true
 
 [[files]]
+file = "mods/enderchests-fabric.pw.toml"
+hash = "59cad50af8375e08085e8292b262c7870feab8b2d13c144253dc35919055d51b"
+metafile = true
+
+[[files]]
 file = "mods/enhancedquarries.pw.toml"
 hash = "ad45d6a1455d73ae4d996a5bf08dfbfd5363f22af83afbc03b55dc81a1e1e2c9"
 metafile = true
@@ -1550,6 +1555,11 @@ hash = "d580e87dd3fbea1d9bd98da604ff9ed7de782565e507a113031f0555763901aa"
 metafile = true
 
 [[files]]
+file = "mods/shetiphiancore-fabric.pw.toml"
+hash = "6fe88699803a82725f1db44807c28aac24f91d318283630f3e3ce266b61917d1"
+metafile = true
+
+[[files]]
 file = "mods/simple-chunkloader-fabric.pw.toml"
 hash = "26f46b46418c64c6a5108db30e44a69562457c5521e2bea92a40e347d300b42f"
 metafile = true
@@ -1557,6 +1567,11 @@ metafile = true
 [[files]]
 file = "mods/simple-teleporters-fabric.pw.toml"
 hash = "e1208cc70150db35017300490277ec393ddb5fcc9cf3e1718cf87c2bbfabb5ff"
+metafile = true
+
+[[files]]
+file = "mods/skylib.pw.toml"
+hash = "3a000c87889a6097c3ff733faf5d8b9b09c031f707d26948f0c5966f6dddabc6"
 metafile = true
 
 [[files]]
@@ -1597,6 +1612,11 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "3574aff8a8c1fef8accb261b1d91cbd041b4dcb12eb7311c7eb1aad710aefe1d"
+metafile = true
+
+[[files]]
+file = "mods/tokenable-furnaces-and-storage.pw.toml"
+hash = "6d2523983d8f69479e55854eb9021e35862c82b598dbe7142be92e07d893564a"
 metafile = true
 
 [[files]]
