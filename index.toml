@@ -1570,9 +1570,8 @@ hash = "e1208cc70150db35017300490277ec393ddb5fcc9cf3e1718cf87c2bbfabb5ff"
 metafile = true
 
 [[files]]
-file = "mods/skylib.pw.toml"
-hash = "3a000c87889a6097c3ff733faf5d8b9b09c031f707d26948f0c5966f6dddabc6"
-metafile = true
+file = "mods/skylorlib-1.3.35.jar"
+hash = "51dd38362c8f0e80cb0f75ce2c29710d202501b5045965e9fe267c0319ced31c"
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
@@ -1615,9 +1614,8 @@ hash = "3574aff8a8c1fef8accb261b1d91cbd041b4dcb12eb7311c7eb1aad710aefe1d"
 metafile = true
 
 [[files]]
-file = "mods/tokenable-furnaces-and-storage.pw.toml"
-hash = "6d2523983d8f69479e55854eb9021e35862c82b598dbe7142be92e07d893564a"
-metafile = true
+file = "mods/tokenablefurnaces-1.3.0.jar"
+hash = "3320b0620b80a9d213ff993439f3aff0e1641aeb88ca77c11468c8feae672b15"
 
 [[files]]
 file = "mods/tool-stats.pw.toml"

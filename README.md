@@ -127,7 +127,7 @@
 - ShetiPhianCore [Fabric] (<https://minecraft.curseforge.com/projects/536603>)
 - Simple Chunkloader [FABRIC] (<https://minecraft.curseforge.com/projects/626846>)
 - Simple Teleporters (Fabric) (<https://minecraft.curseforge.com/projects/334011>)
-- SkyLib (<https://minecraft.curseforge.com/projects/513100>)
+- skylorlib-1.3.35.jar
 - Sodium Extra (<https://minecraft.curseforge.com/projects/447673>)
 - Sodium (<https://modrinth.com/mod/AANobbMI>)
 - spark (<https://minecraft.curseforge.com/projects/361579>)
@@ -136,7 +136,7 @@
 - The Bumblezone (Quilt/Fabric) (<https://minecraft.curseforge.com/projects/363949>)
 - The Extractinator (Fabric) (<https://minecraft.curseforge.com/projects/567114>)
 - The Twilight Forest (<https://minecraft.curseforge.com/projects/227639>)
-- Tokenable Furnaces and Storage (<https://minecraft.curseforge.com/projects/510379>)
+- tokenablefurnaces-1.3.0.jar
 - Tool Stats (<https://minecraft.curseforge.com/projects/377109>)
 - Traveler's Backpack [Fabric] (<https://minecraft.curseforge.com/projects/541171>)
 - Trinkets (Fabric) (<https://minecraft.curseforge.com/projects/341284>)
