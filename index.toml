@@ -957,7 +957,7 @@ metafile = true
 
 [[files]]
 file = "mods/amethyst-imbuement.pw.toml"
-hash = "81243b192b96d7b49eda80f616d0e9de4d8f9c0ecdd34190104e49835e93f4b7"
+hash = "d970315453df65c6c7f1634794d214ef1fc650a105b05ef56ebce55da3d69ca3"
 metafile = true
 
 [[files]]
@@ -1217,7 +1217,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "7782421a12d63ee69419eb0f0e6993f1a168f5c6936f9405b0d40b161b68179a"
+hash = "5ec7e0f16264d38326d7b9e7cd0ec241be9b265125a0e7abf2895f8605f95bdc"
 metafile = true
 
 [[files]]
@@ -1296,7 +1296,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "810dfe46f616e54d2659432edcab7fa0f0c0c53ea9773ce817647ee483278920"
+hash = "82bb46b33410b83af78f1ff08ae79ff4506767a07f7c0b09c53370f28052a02b"
 metafile = true
 
 [[files]]
@@ -1361,7 +1361,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "d35f37a8030fcea2d00f21143a7918ff9e6b654e3406e07646e1f27a4330f71a"
+hash = "3038cc03f40f62770c4967960c50ce0f940c2adb51a9b17bf032efac2cf06d00"
 metafile = true
 
 [[files]]
@@ -1634,7 +1634,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-ores-fabric.pw.toml"
-hash = "dfc9d3cf4b1684efc3de576ab851f9e1cdf1ef0ac52bdc02b0c836961f3ebcf6"
+hash = "958ea288bbb86dd19ead37c32bcedd345997321d1f88734c038e0753b57b11a0"
 metafile = true
 
 [[files]]

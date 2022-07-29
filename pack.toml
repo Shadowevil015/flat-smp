@@ -1,12 +1,12 @@
-name = "flat-smp"
+name = "yung-munny-smp"
 author = "Shadowevil015 & Flat"
-version = "2.0.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "05dc123d9d61cacd4338bb08f1309244c2b0cfa250c3b371cce0c1c136a0a826"
+hash = "2de6fd51124dd73d13c5f3ee2b4aa0b14b11230716515abbb11560d3a0ea5c50"
 
 [versions]
 fabric = "0.14.8"
