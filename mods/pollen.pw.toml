@@ -1,0 +1,13 @@
+name = "Pollen"
+filename = "pollen-fabric-1.4.7+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c234d85ebbd67169c997c7d40998474d31b4bd87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3908397
+project-id = 544350

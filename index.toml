@@ -1211,6 +1211,11 @@ hash = "65370d3a87c7eadaa75ebf3c00cbff34cf206f88fa54c0d13da1225d7c4bf862"
 metafile = true
 
 [[files]]
+file = "mods/etched.pw.toml"
+hash = "8de9983fea72f6319af3a834a08be02caf5fb0981ef88b882ca8e9fea26d4675"
+metafile = true
+
+[[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "fa606c4c823e7fde9d9a444ae80362cb89c09c337ea1fc58dd61f4d29bad75ba"
 metafile = true
@@ -1482,6 +1487,11 @@ metafile = true
 [[files]]
 file = "mods/player-events.pw.toml"
 hash = "63770268748e425393725a0c268dcbdab9ed89c5a08c842f0cd2c9ac27f06758"
+metafile = true
+
+[[files]]
+file = "mods/pollen.pw.toml"
+hash = "2b055cff5de40b99ca11ae27355ce37334d20fd798afe35d584b51452a10139f"
 metafile = true
 
 [[files]]
