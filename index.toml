@@ -1196,11 +1196,6 @@ hash = "e555fc6193553393d2cb55efe723a2ed726329942627519762ba8886d573b751"
 metafile = true
 
 [[files]]
-file = "mods/enderchests-fabric.pw.toml"
-hash = "59cad50af8375e08085e8292b262c7870feab8b2d13c144253dc35919055d51b"
-metafile = true
-
-[[files]]
 file = "mods/enhancedquarries.pw.toml"
 hash = "ad45d6a1455d73ae4d996a5bf08dfbfd5363f22af83afbc03b55dc81a1e1e2c9"
 metafile = true
@@ -1562,11 +1557,6 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard-fabric.pw.toml"
 hash = "d580e87dd3fbea1d9bd98da604ff9ed7de782565e507a113031f0555763901aa"
-metafile = true
-
-[[files]]
-file = "mods/shetiphiancore-fabric.pw.toml"
-hash = "6fe88699803a82725f1db44807c28aac24f91d318283630f3e3ce266b61917d1"
 metafile = true
 
 [[files]]
