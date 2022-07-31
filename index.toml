@@ -1126,6 +1126,10 @@ hash = "f11a3f0c5dd3c319162b5c42fabd24d0bbb7bcbe383dc5c77d361c7b64488acf"
 metafile = true
 
 [[files]]
+file = "mods/create-1.18.2-0.5.0c-702.jar"
+hash = "5017601545c7d1369247055c3369129077ae0600e564782ad62493a5fe5e496a"
+
+[[files]]
 file = "mods/croptosis.pw.toml"
 hash = "1496f7934e3cb4a0ad45bdffe5b79c1c53e858cd8a6fb148c15b944d6ed919a0"
 metafile = true
