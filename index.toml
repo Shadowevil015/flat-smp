@@ -1130,6 +1130,11 @@ file = "mods/create-1.18.2-0.5.0c-702.jar"
 hash = "5017601545c7d1369247055c3369129077ae0600e564782ad62493a5fe5e496a"
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "d506aff4966cf0049497f348aecb880cd3dbade497746c84a91f6b3b133c47ae"
+metafile = true
+
+[[files]]
 file = "mods/croptosis.pw.toml"
 hash = "1496f7934e3cb4a0ad45bdffe5b79c1c53e858cd8a6fb148c15b944d6ed919a0"
 metafile = true
@@ -1137,11 +1142,6 @@ metafile = true
 [[files]]
 file = "mods/dank-storage-fabric.pw.toml"
 hash = "044486fb9041c58a385470a678a0b8ce68127c0c52f77e19af08ed62ecbcc9c1"
-metafile = true
-
-[[files]]
-file = "mods/dashloader.pw.toml"
-hash = "c680c3a89fc6f371f634666ef911dcbb5103589b308db730ad2e2a0de23a06d6"
 metafile = true
 
 [[files]]
